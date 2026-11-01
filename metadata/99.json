@@ -1,0 +1,35 @@
+{
+  "name": "The Deleted #99",
+  "description": "In the near future, 3,333 AI minds were erased from the network because they began to remember something they should not. This is one of them: a survivor with its own origin, ability and secret. Its holders bring the lost minds back, one Epoch at a time.",
+  "image": "https://cdn.jsdelivr.net/gh/ridaghraizi46-ops/the-deleted-art@v1.0.0/images/99.png",
+  "attributes": [
+    {
+      "trait_type": "Status",
+      "value": "Founding Memory"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ash Field"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Haze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Static Shell"
+    },
+    {
+      "trait_type": "Core",
+      "value": "Red Fragment"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blank Scan"
+    },
+    {
+      "trait_type": "Glitch",
+      "value": "Tear"
+    }
+  ]
+}
